@@ -14,11 +14,7 @@ This portfolio showcases my skills in:
 ## 🚀 Live Portfolio
 
 🔗 Main Portfolio:
-https://yourusername.github.io/email-portfolio/
-
-> Replace `yourusername` with your actual GitHub username.
-
----
+https://nnadozieogbonna969-bit.github.io/email-portfolio/
 
 ## 📁 Projects Included
 
@@ -26,7 +22,7 @@ https://yourusername.github.io/email-portfolio/
 A high-conversion email designed for coaching and personal development brands focused on authority positioning and email list engagement.
 
 🔗 View Project:
-https://yourusername.github.io/email-portfolio/brand-coach-email/
+https://nnadozieogbonna969-bit.github.io/email-portfolio/brand-coach-email/
 
 ---
 
@@ -34,7 +30,7 @@ https://yourusername.github.io/email-portfolio/brand-coach-email/
 A bold, energetic promotional email designed for fitness offers, training programs, and product sales.
 
 🔗 View Project:
-https://yourusername.github.io/email-portfolio/fitness-email/
+https://nnadozieogbonna969-bit.github.io/email-portfolio/fitness-email/
 
 ---
 
@@ -42,7 +38,7 @@ https://yourusername.github.io/email-portfolio/fitness-email/
 A luxury-style promotional email designed for fragrance and lifestyle brands, focused on emotional selling and visual appeal.
 
 🔗 View Project:
-https://yourusername.github.io/email-portfolio/perfume-brand-sales/
+https://nnadozieogbonna969-bit.github.io/email-portfolio/perfume-brand-sales/
 
 ---
 
@@ -68,7 +64,7 @@ This portfolio was built to demonstrate:
 
 ## 📌 Notes
 
-- All emails are fully responsive and optimized for major email clients.
+- All emails are fully optimized for the major email clients.
 - Designs follow best practices for deliverability and engagement.
 - This portfolio is continuously updated with new projects.
 
